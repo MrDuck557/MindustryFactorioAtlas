@@ -1,7 +1,11 @@
 # MindustryFactorioAtlas
 I replaced all the atlases with factorio logo, this is what happened
 
-How to turn your own v7 mindustry into factorio:
+Download from this [link](https://www.mediafire.com/file/w3gaj5uebo1a2lv/FactorioAtlas.jar/file)
+
+Alternatively:
+
+How to turn your own v7 mindustry into factorio
 
 Step 1: rename the .jar to .zip
 
