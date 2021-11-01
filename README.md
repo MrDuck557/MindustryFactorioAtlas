@@ -1,4 +1,6 @@
 # MindustryFactorioAtlas
+WARNING: this causes other .jars to use factorio sprites, I do not know why
+
 I replaced all the atlases with factorio logo, this is what happened
 
 Download from this [link](https://www.mediafire.com/file/w3gaj5uebo1a2lv/FactorioAtlas.jar/file)
